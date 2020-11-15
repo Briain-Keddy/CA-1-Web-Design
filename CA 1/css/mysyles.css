@@ -1,0 +1,32 @@
+.myContainer{
+    height: 50px;
+}
+
+.websiteName{
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.festival, .websiteName{
+    font-family: 'Oswald', 'sans serif';
+}
+
+.electric_picnic{
+    font-size: 36px;
+}
+
+.download, .isle_of_wight, .glastonbury, .parklife, .chicago_blues, .isle_of_wight, .summerfest{
+    font-size: 24px;
+}
+.isle_of_wight, .glastonbury{
+    text-align: center;
+}
+
+.info_festival{
+    font-size: 16px;
+}
+
+img {
+  width: 100%;
+  height: 200px;
+}
